@@ -17,7 +17,6 @@ import threading
 import logging
 import random
 import os
-from cryptography.fernet import Fernet
 
 # Activity Monitoring
 global mouse_clicks
