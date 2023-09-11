@@ -7,10 +7,10 @@ https://www.loom.com/share/9328b229b2114d91980c1808558c3488?sid=58e47439-b165-48
 https://www.loom.com/share/41cd79dc0b1540738b2eb0b4d8fc4e80?sid=16187487-ca9d-4754-add0-9cd2cfc27d18
 1. Go to this Google Sheet and make a copy (Google Apps Script Included): https://docs.google.com/spreadsheets/d/1xwXAl1jfe4G7z6bN-TdHsBwIZQP6AONEwRd2X0r-GGY/edit?usp=sharing
 2. In your Google Sheet, fill in the Employees Database with your employees.
-3. Deploy the Web App via Google Apps Script and copy your webhook URL.
+3. Deploy the Web App via Google Apps Script and copy your web app URL.
 4. Make a copy of this Looker dashboard and connect your Google Sheet: https://lookerstudio.google.com/reporting/20ea2cf5-5586-4f65-b43f-6c10beecdffd
 5. Ask your hires to download the Employee Productivity Tracker: https://github.com/GlobalHola/Employee_Productivity_Tracker/blob/main/Global%20Hola%20Productivity%20Tracker.zip
-6. Send your hires your webhook url to input into the app.
+6. Send your hires your web app URL to input into the app.
 7. Ask your hires to click "Start Tracking" and "Stop Tracking" to see if the connection is set up correctly.
 
 ## FAQ
