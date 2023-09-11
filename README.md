@@ -21,9 +21,10 @@ https://www.loom.com/share/41cd79dc0b1540738b2eb0b4d8fc4e80?sid=16187487-ca9d-47
 4. Active applications in list.
 
 ### How does it work?
--- Once the user clicks the "Start Monitoring" button, the app tracks data.
--- Every 10 minutes, it sends that data to a webhook location that can record the data.
--- The Google Apps Script reads the data and sends it to the Google Sheet.
+- Once the user clicks the "Start Monitoring" button, the app tracks data.
+- Every 10 minutes, it sends that data to a webhook location that can record the data.
+- The Google Apps Script reads the data and sends it to the Google Sheet.
+- You connect your Google Sheet to a Looker dashboard to visualize the productivity across days and projects.
 
 ### What applications does it track?
 1. Acrobat (Adobe Acrobat)
