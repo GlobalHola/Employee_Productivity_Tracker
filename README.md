@@ -80,7 +80,6 @@ https://www.loom.com/share/41cd79dc0b1540738b2eb0b4d8fc4e80?sid=16187487-ca9d-47
 51. Vim (Text editor)
 52. Visual Studio Code
 53. Zoom
-54. Things (Task management for Mac)
 
 
 ## Disclaimer and License Agreement
