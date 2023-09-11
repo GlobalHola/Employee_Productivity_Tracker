@@ -17,6 +17,7 @@ import threading
 import logging
 import random
 import os
+from cryptography.fernet import Fernet
 
 # Activity Monitoring
 global mouse_clicks
@@ -187,11 +188,6 @@ def send_to_webhook(data, webhook_url):
         timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         logging.info(str(timestamp) + ": " + "Data sent: " + str(data))
         logging.info(str(timestamp) + ": " + "Webhook response: " + str(response))
-
-        # Append log entry to a local .txt file
-        with open('activity_tracker_log.txt', 'a') as log_file:
-            timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            log_file.write(str(timestamp) + ": " + str(data) + "\n")
 
         mouse_clicks = 0
         key_presses = 0
