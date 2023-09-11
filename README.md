@@ -1,7 +1,8 @@
 # Employee_Productivity_Tracker
 
 ## Setup
-- Setup Video: 
+- Setup Video: https://www.loom.com/share/9328b229b2114d91980c1808558c3488?sid=58e47439-b165-48ab-9004-df2b885f7c24
+- Connect Dashboard Video: 
 1. Go to this Google Sheet and make a copy (Google Apps Script Included): https://docs.google.com/spreadsheets/d/1xwXAl1jfe4G7z6bN-TdHsBwIZQP6AONEwRd2X0r-GGY/edit?usp=sharing
 2. In your Google Sheet, fill in the Employees Database with your employees.
 3. Deploy the Web App via Google Apps Script and copy your webhook URL.
