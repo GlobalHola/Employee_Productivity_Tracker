@@ -1,5 +1,5 @@
 # Employee_Productivity_Tracker
-
+## WINDOWS VERSION ONLY (MAC VERSION COMING SOON)
 ## Setup
 ### - Setup Video: 
 https://www.loom.com/share/9328b229b2114d91980c1808558c3488?sid=58e47439-b165-48ab-9004-df2b885f7c24
