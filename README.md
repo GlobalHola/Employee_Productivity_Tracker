@@ -1,4 +1,6 @@
 # Employee_Productivity_Tracker
+![image](https://github.com/GlobalHola/Employee_Productivity_Tracker/assets/144646518/419b0c36-6591-4b3d-b270-4f6bcef5259d)
+
 ## WINDOWS VERSION ONLY (MAC VERSION COMING SOON)
 ## Setup
 ### - Setup Video: 
